@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/karthifairhawn/karthifairhawn/d013bdc9ae0c9ddf969dd218360dac32f1f7f5da/name.svg" alt="Marton Lederer" />
+  <img src="https://github.com/ajayravi238/ajayravi238/blob/main/name.svg" alt="Marton Lederer" />
 </h1>
 
 # 💫 About Me:
